@@ -12,4 +12,5 @@ We created a Dashboard from our cleaned data using various Visuals like Bar char
 We drew various insights from the data like the city which had the most sales were California and phones were
 the highest sold subcategory.
 
-[Uploading Power Bi Sales analysis.pdf…]()
+
+[Power Bi Sales analysis.pdf](https://github.com/Jasir-yattoo/Power-Bi-Project-1/files/12004924/Power.Bi.Sales.analysis.pdf)
