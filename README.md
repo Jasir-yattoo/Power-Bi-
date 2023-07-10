@@ -14,3 +14,4 @@ the highest sold subcategory.
 
 
 [Power Bi Sales analysis.pdf](https://github.com/Jasir-yattoo/Power-Bi-Project-1/files/12004924/Power.Bi.Sales.analysis.pdf)
+![Screenshot (123)](https://github.com/Jasir-yattoo/Power-Bi-Project-1/assets/104289719/3ed55881-20b2-4d39-ac38-9f8bdea6225e)
